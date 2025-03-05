@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Oleksandr. I'm an former Informatics teacher, currently studying web development. 
+My name is Oleksandr. I'm an former Informatics teacher, currently studying Web Development. 
 HTML, CSS, JS, React, Python, C++
 
 - 🌱 I’m currently learning Back End.
