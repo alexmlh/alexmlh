@@ -4,7 +4,6 @@ HTML, CSS, JS, React, Python, C++
 
 - 🌱 I’m currently learning Back End.
 - 🔭 I’m currently working on Back End [project](https://alexmlh.github.io/react-movie)
--  😄 Pronouns: Alex.
 -  📫 How to reach me: malagan31@gmail.com.
 <!--
 **alexmlh/alexmlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
