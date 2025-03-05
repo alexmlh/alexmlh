@@ -2,8 +2,8 @@
 My name is Oleksandr. I'm an former Informatics teacher, currently studying web development. 
 HTML, CSS, JS, React, Python, C++
 
-- 🔭 I’m currently working on Back End projects.
 - 🌱 I’m currently learning Back End.
+- 🔭 I’m currently working on Back End [project](https://alexmlh.github.io/react-movie)
 -  😄 Pronouns: Alex.
 -  📫 How to reach me: malagan31@gmail.com.
 <!--
