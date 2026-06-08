@@ -1,7 +1,7 @@
 # Hi there 👋
 
 💻 **Full-Stack Web Developer** | Vue.js · Nuxt · React · TypeScript · Node.js · MongoDB  
-📚 Former Mathematics & Informatics Teacher | Currently @ **braintags GmbH**
+📚 Former Mathematics & Informatics Teacher | Currently @ **Full-Stack Web Developer braintags GmbH**
 
 ---
 
